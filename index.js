@@ -15,4 +15,4 @@ let multiply = (num1 *= num2);
  let mod = (num3 %= num4);
  mod;
 
- let max = Math.max(0,20)
+ let max = Math.max(0,20).
